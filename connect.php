@@ -1,6 +1,6 @@
 <?php 
  $host = 'localhost';
- $dbname = 'rest-server';
+ $dbname = 'db_temukanhoax';
  $username = 'root';
  $password = '';
 try {
